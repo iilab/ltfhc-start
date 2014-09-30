@@ -1,0 +1,10 @@
+webview {
+  height: 750px;
+  width: 100%;
+}
+
+button {
+  left: auto;
+  position: absolute;
+  right: 6px;
+}
